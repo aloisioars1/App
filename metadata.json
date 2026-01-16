@@ -1,0 +1,9 @@
+{
+  "name": "Comédia Lab - Stand-up AI Mentor",
+  "description": "Uma plataforma completa para comediantes escreverem, refinarem e ensaiarem piadas usando técnicas de Greg Dean, Léo Lins e IA de ponta.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
